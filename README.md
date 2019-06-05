@@ -8,7 +8,7 @@ On my page I go thru some of the code:
 
 ![First screenshot](https://corenety.com/games/depth-charges.png)
 
-<center>Check out this short demo video on YouTube<br>
-[![Demo Video](https://img.youtube.com/vi/AYyNhfUJxzQ/0.jpg)](https://www.youtube.com/watch?v=AYyNhfUJxzQ)</center>
+Check out this short demo video on YouTube<br>
+[![Demo Video](https://img.youtube.com/vi/AYyNhfUJxzQ/0.jpg)](https://www.youtube.com/watch?v=AYyNhfUJxzQ)
 
 
